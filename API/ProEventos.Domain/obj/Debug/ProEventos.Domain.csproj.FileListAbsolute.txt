@@ -1,0 +1,10 @@
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain\bin\Debug\ProEventos.Domain.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain\bin\Debug\ProEventos.Domain.pdb
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain\obj\Debug\ProEventos.Domain.csproj.AssemblyReference.cache
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain\obj\Debug\ProEventos.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain\obj\Debug\ProEventos.Domain.csproj.CopyComplete
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain\obj\Debug\ProEventos.Domain.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain\obj\Debug\ProEventos.Domain.pdb

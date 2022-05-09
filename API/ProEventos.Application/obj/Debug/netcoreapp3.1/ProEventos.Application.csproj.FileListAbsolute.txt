@@ -1,0 +1,15 @@
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Application\bin\Debug\netcoreapp3.1\ProEventos.Application.deps.json
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Application\bin\Debug\netcoreapp3.1\ProEventos.Application.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Application\bin\Debug\netcoreapp3.1\ProEventos.Application.pdb
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Application\bin\Debug\netcoreapp3.1\ProEventos.Domain.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Application\bin\Debug\netcoreapp3.1\ProEventos.Persistence.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Application\bin\Debug\netcoreapp3.1\ProEventos.Domain.pdb
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Application\bin\Debug\netcoreapp3.1\ProEventos.Persistence.pdb
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Application\obj\Debug\netcoreapp3.1\ProEventos.Application.csproj.AssemblyReference.cache
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Application\obj\Debug\netcoreapp3.1\ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Application\obj\Debug\netcoreapp3.1\ProEventos.Application.AssemblyInfoInputs.cache
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Application\obj\Debug\netcoreapp3.1\ProEventos.Application.AssemblyInfo.cs
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Application\obj\Debug\netcoreapp3.1\ProEventos.Application.csproj.CoreCompileInputs.cache
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Application\obj\Debug\netcoreapp3.1\ProEventos.Application.csproj.CopyComplete
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Application\obj\Debug\netcoreapp3.1\ProEventos.Application.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Application\obj\Debug\netcoreapp3.1\ProEventos.Application.pdb

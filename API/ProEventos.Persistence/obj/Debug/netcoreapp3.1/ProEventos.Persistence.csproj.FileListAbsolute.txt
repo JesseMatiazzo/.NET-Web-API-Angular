@@ -1,0 +1,16 @@
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Persistence\bin\Debug\netcoreapp3.1\ProEventos.Persistence.deps.json
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Persistence\bin\Debug\netcoreapp3.1\ProEventos.Persistence.runtimeconfig.json
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Persistence\bin\Debug\netcoreapp3.1\ProEventos.Persistence.runtimeconfig.dev.json
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Persistence\bin\Debug\netcoreapp3.1\ProEventos.Persistence.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Persistence\bin\Debug\netcoreapp3.1\ProEventos.Persistence.pdb
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Persistence\bin\Debug\netcoreapp3.1\ProEventos.Domain.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Persistence\bin\Debug\netcoreapp3.1\ProEventos.Domain.pdb
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Persistence\obj\Debug\netcoreapp3.1\ProEventos.Persistence.csproj.AssemblyReference.cache
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Persistence\obj\Debug\netcoreapp3.1\ProEventos.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Persistence\obj\Debug\netcoreapp3.1\ProEventos.Persistence.AssemblyInfoInputs.cache
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Persistence\obj\Debug\netcoreapp3.1\ProEventos.Persistence.AssemblyInfo.cs
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Persistence\obj\Debug\netcoreapp3.1\ProEventos.Persistence.csproj.CoreCompileInputs.cache
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Persistence\obj\Debug\netcoreapp3.1\ProEventos.Persistence.csproj.CopyComplete
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Persistence\obj\Debug\netcoreapp3.1\ProEventos.Persistence.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Persistence\obj\Debug\netcoreapp3.1\ProEventos.Persistence.pdb
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Persistence\obj\Debug\netcoreapp3.1\ProEventos.Persistence.genruntimeconfig.cache
