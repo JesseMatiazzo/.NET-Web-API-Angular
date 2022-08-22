@@ -26,7 +26,7 @@ namespace ProEventos.Application.Services
                 _geralPersist.Add(model);
                 if (await _geralPersist.SaveChangesAsync())
                 {
-                    return await _usuarioPersist.PegarUsuario(model.UsuarioLogin, model.Senha);
+                    return await _usuarioPersist.PegarUsuario(model.UserName, model.Password);
                 }
                 return null;
             }

@@ -1,0 +1,10 @@
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain_\bin\Debug\netcoreapp3.1\ProEventos.Domain.deps.json
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain_\bin\Debug\netcoreapp3.1\ProEventos.Domain.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain_\bin\Debug\netcoreapp3.1\ProEventos.Domain.pdb
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain_\obj\Debug\netcoreapp3.1\ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain_\obj\Debug\netcoreapp3.1\ProEventos.Domain.AssemblyInfoInputs.cache
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain_\obj\Debug\netcoreapp3.1\ProEventos.Domain.AssemblyInfo.cs
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain_\obj\Debug\netcoreapp3.1\ProEventos.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain_\obj\Debug\netcoreapp3.1\ProEventos.Domain.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain_\obj\Debug\netcoreapp3.1\ProEventos.Domain.pdb
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\ProEventos.Domain_\obj\Debug\netcoreapp3.1\ProEventos.Domain.csproj.AssemblyReference.cache

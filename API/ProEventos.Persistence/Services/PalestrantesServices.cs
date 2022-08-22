@@ -17,24 +17,6 @@ namespace ProEventos.Persistence.Services
         {
             _context = context;
         }
-        public void Add<T>(T entity) where T : class
-        {
-            _context.Add(entity);
-        }
-        public void Update<T>(T entity) where T : class
-        {
-            _context.Update(entity);
-        }
-
-        public void Delete<T>(T entity) where T : class
-        {
-            _context.Remove(entity);
-        }
-
-        public void DeleteRange<T>(T entityArray) where T : class
-        {
-            _context.RemoveRange(entityArray);
-        }
         public async Task<bool> SaveChangesAsync()
         {
             return (await _context.SaveChangesAsync() > 0);
@@ -89,7 +71,7 @@ namespace ProEventos.Persistence.Services
             {
                 query = query.Include(p => p.PalestrantesEventos).ThenInclude(p => p.Evento);
             }
-            query = query.OrderBy(p => p.Nome);
+            query = query.OrderBy(p => p.User.PrimeiroNome);
             return await query.ToArrayAsync();
         }
 
@@ -100,7 +82,7 @@ namespace ProEventos.Persistence.Services
             {
                 query = query.Include(p => p.PalestrantesEventos).ThenInclude(p => p.Evento);
             }
-            query = query.Where(p => p.Nome.ToLower().Contains(nome.ToLower())).OrderBy(p => p.Nome);
+            query = query.Where(p => p.User.PrimeiroNome.ToLower().Contains(nome.ToLower())).OrderBy(p => p.User.PrimeiroNome);
             return await query.ToArrayAsync();
         }
 

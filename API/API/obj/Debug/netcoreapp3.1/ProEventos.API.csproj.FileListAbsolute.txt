@@ -75,3 +75,11 @@ C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\API\obj\Debug\netcoreapp3.1\ProEven
 C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\API\obj\Debug\netcoreapp3.1\ProEventos.API.dll
 C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\API\obj\Debug\netcoreapp3.1\ProEventos.API.pdb
 C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\API\obj\Debug\netcoreapp3.1\ProEventos.API.genruntimeconfig.cache
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Dev\ASP NET CORE - ANGULAR\ProEventos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll

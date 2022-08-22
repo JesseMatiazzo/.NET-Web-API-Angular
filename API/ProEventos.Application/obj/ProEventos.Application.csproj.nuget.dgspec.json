@@ -13,13 +13,9 @@
         "packagesPath": "C:\\Users\\jesse\\.nuget\\packages\\",
         "outputPath": "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
           "C:\\Users\\jesse\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -32,9 +28,6 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Domain\\ProEventos.Domain.csproj": {
-                "projectPath": "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Domain\\ProEventos.Domain.csproj"
-              },
               "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Persistence\\ProEventos.Persistence.csproj": {
                 "projectPath": "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Persistence\\ProEventos.Persistence.csproj"
               }
@@ -50,6 +43,28 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.18.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.18.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -65,23 +80,82 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Domain\\ProEventos.Domain.csproj": {
+    "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Domain_\\ProEventos.Domain.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Domain\\ProEventos.Domain.csproj",
+        "projectUniqueName": "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Domain_\\ProEventos.Domain.csproj",
         "projectName": "ProEventos.Domain",
-        "projectPath": "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Domain\\ProEventos.Domain.csproj",
+        "projectPath": "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Domain_\\ProEventos.Domain.csproj",
+        "packagesPath": "C:\\Users\\jesse\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Domain_\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jesse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
-          "net472": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
         }
       },
       "frameworks": {
-        "net472": {}
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
       }
     },
     "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Persistence\\ProEventos.Persistence.csproj": {
@@ -93,13 +167,9 @@
         "packagesPath": "C:\\Users\\jesse\\.nuget\\packages\\",
         "outputPath": "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Persistence\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
           "C:\\Users\\jesse\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -112,8 +182,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Domain\\ProEventos.Domain.csproj": {
-                "projectPath": "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Domain\\ProEventos.Domain.csproj"
+              "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Domain_\\ProEventos.Domain.csproj": {
+                "projectPath": "C:\\Dev\\ASP NET CORE - ANGULAR\\ProEventos\\API\\ProEventos.Domain_\\ProEventos.Domain.csproj"
               }
             }
           }
@@ -128,6 +198,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.16, )"
@@ -158,7 +232,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -25,7 +25,7 @@ namespace ProEventos.Persistence.Services
 
         public async Task<Usuario> PegarUsuario(string usuario, string senha)
         {
-            return await _context.Usuarios.Where(u => u.UsuarioLogin == usuario && u.Senha == senha).FirstOrDefaultAsync();
+            return await _context.Usuarios.Where(u => u.UserName == usuario && u.Password == senha).FirstOrDefaultAsync();
         }
     }
 }
